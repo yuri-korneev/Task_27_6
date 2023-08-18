@@ -1,0 +1,5 @@
+[2023-08-18T13:34:59.004224+02:00] login_log.INFO: login errors: {"datetime":"2023-08-18 13:34:59","email":"kva@mail.ru","password":"2222"} []
+[2023-08-18T13:35:16.506775+02:00] login_log.INFO: login errors: {"datetime":"2023-08-18 13:35:16","email":"kvakva@mail.ru","password":"123"} []
+[2023-08-18T13:37:41.432705+02:00] login_log.INFO: login errors: {"datetime":"2023-08-18 13:37:41","email":"kvakvu@mail.ru","password":"123","errors":[{"email":"Пользователя с таким Email не зарегистрировано"}]} []
+[2023-08-18T13:38:39.540964+02:00] login_log.INFO: login errors: {"datetime":"2023-08-18 13:38:39","email":"ivan@mail.ru","password":"111","errors":[{"password":"Неверно введен пароль"}]} []
+[2023-08-18T15:22:57.376942+02:00] login_log.INFO: login errors: {"datetime":"2023-08-18 15:22:57","email":"","password":"","errors":[{"email":"Email не указан"},{"password":"Пароль не указан"},{"email":"Пользователя с таким Email не зарегистрировано"}]} []
